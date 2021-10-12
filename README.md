@@ -27,7 +27,7 @@ Please report issues stemming from this program to me. Waz the WazHack dev has n
 You can contact me directly at Digineaux@gmail.com
 Digineaux.com/contact/
 
-video: https://youtu.be/bKYVk0FJln0
+video: https://youtu.be/DNvlJLRxpNo
 devblog: https://digineaux.com/wazhack-unnofficial-modding-gui-alpha-release/
 
 you can see my other stuff at digineaux on most social medias:
