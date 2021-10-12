@@ -28,6 +28,8 @@ You can contact me directly at Digineaux@gmail.com or
 
 Digineaux.com/contact/
 
+forum: https://www.reddit.com/r/Digineaux/comments/q6mtvs/wazhack_unnofficial_modding_gui_alpha_release/
+
 video: https://youtu.be/DNvlJLRxpNo
 
 devblog: https://digineaux.com/wazhack-unnofficial-modding-gui-alpha-release/
