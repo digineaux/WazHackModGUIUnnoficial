@@ -11,7 +11,6 @@ A graphical interface for creating class mods for WazHack
 8. From the main menu click "mods"
 9. enable the mod you just created by clicking the tick next to it's name
 10. Start a new game
-11. Modded classes appear after the 2 screens of vanilla characters.
 
 The program will compile the input into a text file formatted for WazHacks class modding features.
 It will also create a mod folder and meta file.
