@@ -24,15 +24,21 @@ If a mod does not load correctly in game, it will likely have an error shown in 
 
 Please report issues stemming from this program to me. Waz the WazHack dev has nothing to do with this app and likely wouldn't appreciate receiving bug reports for it. Additionally i can't deal with bug reports that get sent to somone else.
 
-You can contact me directly at Digineaux@gmail.com
+You can contact me directly at Digineaux@gmail.com or
+
 Digineaux.com/contact/
 
 video: https://youtu.be/DNvlJLRxpNo
+
 devblog: https://digineaux.com/wazhack-unnofficial-modding-gui-alpha-release/
 
 you can see my other stuff at digineaux on most social medias:
 Digineaux.com
+
 https://www.youtube.com/channel/UCarT02m1DDpRcGPOoc32YqA
+
 https://www.reddit.com/r/Digineaux/
+
 https://twitter.com/digineaux
+
 https://www.twitch.tv/digineaux
