@@ -1,6 +1,8 @@
 # WazHackModGUIUnnoficial
 A graphical interface for creating class mods for WazHack
 
+Get it from Nexus mods here: https://www.nexusmods.com/wazhack/mods/2/?tab=description I also prefer feedback and bug reports on nexus.
+
 1. click "code". The green button in the top right of the main github page.
 2. click "Download ZIP"
 3. Extract the zip to wherever you want (you can always move it, copy or delete it at any time).
